@@ -77,7 +77,7 @@ beautifulsoup4
 
 ## 🧑‍💻 Autor
 
-**Eddu Escobedo**  
+**Bot-Collab**  
 Pentester Ético | Desarrollador Python
 
 ## 🛡️ Uso Ético
